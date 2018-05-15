@@ -1,3 +1,3 @@
 Basic Differential Equations problems solved with Pyhton3.  
 Note : .ipynb notebook files works with IPhyton
-http://nbviewer.jupyter.org
+see the link below : http://nbviewer.jupyter.org/github/Isydmr/Differential-Equations-pyhton-/tree/master/
